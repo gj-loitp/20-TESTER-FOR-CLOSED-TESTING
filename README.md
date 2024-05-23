@@ -10,24 +10,43 @@ Here’s how it works:
 Please add the following emails to your tester list:
 
 Loitp.dev.01@gmail.com
+
 Loitp.dev.02@gmail.com
+
 Loitp.dev.03@gmail.com
+
 Loitp.dev.04@gmail.com
+
 Loitp.dev.05@gmail.com
+
 Loitp.dev.06@gmail.com
+
 Loitp.dev.07@gmail.com
+
 Loitp.dev.08@gmail.com
+
 Loitp.dev.09@gmail.com
+
 Mirajane.dev.01@gmail.com
+
 Mirajane.dev.02@gmail.com
+
 Mirajane.dev.03@gmail.com
+
 Mirajane.dev.04@gmail.com
+
 Mirajane.dev.05@gmail.com
+
 Freuss47@gmail.com
+
 Freuss48@gmail.com
+
 Www.muathu@gmail.com
+
 Roy.mobile.dev@gmail.com
+
 Quyenkdt@gmail.com
+
 Conthuyenkhongben93@gmail.com
 
 **Step 2: Rate My Apps 5 Stars**
@@ -51,26 +70,44 @@ Tên tôi là Roy, một nhà phát triển thiết bị di động và tôi có
 
 **Bước 1: Thêm email của tôi vào danh sách người thử nghiệm của bạn**
 Vui lòng thêm các email sau vào danh sách người thử nghiệm của bạn:
-
 Loitp.dev.01@gmail.com
+
 Loitp.dev.02@gmail.com
+
 Loitp.dev.03@gmail.com
+
 Loitp.dev.04@gmail.com
+
 Loitp.dev.05@gmail.com
+
 Loitp.dev.06@gmail.com
+
 Loitp.dev.07@gmail.com
+
 Loitp.dev.08@gmail.com
+
 Loitp.dev.09@gmail.com
+
 Mirajane.dev.01@gmail.com
+
 Mirajane.dev.02@gmail.com
+
 Mirajane.dev.03@gmail.com
+
 Mirajane.dev.04@gmail.com
+
 Mirajane.dev.05@gmail.com
+
 Freuss47@gmail.com
+
 Freuss48@gmail.com
+
 Www.muathu@gmail.com
+
 Roy.mobile.dev@gmail.com
+
 Quyenkdt@gmail.com
+
 Conthuyenkhongben93@gmail.com
 
 **Bước 2: Xếp hạng ứng dụng của tôi 5 sao**
