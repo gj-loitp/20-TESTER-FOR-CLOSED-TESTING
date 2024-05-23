@@ -70,13 +70,20 @@ Thank you for your collaboration, and I look forward to working together!
 Best regards, Roy
 
 ‎ 
+**‎ 
 ‎ 
 ‎ 
 ‎ 
 ‎ 
 ‎ 
 ‎ 
-==============VIETNAMESE==============
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎** 
 
 Xin chào tất cả mọi người,
 
