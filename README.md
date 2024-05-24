@@ -99,6 +99,10 @@ Tên tôi là Roy, một nhà phát triển thiết bị di động và tôi có
 
 ## **Bước 1: Thêm email của tôi vào danh sách người thử nghiệm của bạn**
 
+Vui lòng thêm group test của tôi: 20testersforclosedtesting@googlegroups.com
+
+Hoặc
+
 Vui lòng thêm các email sau vào danh sách người thử nghiệm của bạn:
 
 Loitp.dev.01@gmail.com
