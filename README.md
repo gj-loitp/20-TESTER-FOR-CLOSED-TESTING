@@ -10,7 +10,7 @@ Here’s how it works:
 
 ## **Step 1: Add My Emails to Your Tester List**
 
-Please add my group test 20testersforclosedtesting@googlegroups.com
+Please add my group test: 20testersforclosedtesting@googlegroups.com
 
 OR
 
