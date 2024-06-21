@@ -13,8 +13,10 @@ Here’s how it works:
 Please add my group test: 20testersforclosedtesting@googlegroups.com
 Then submit your changes to Google.
 
+## **Step 2: Join my group**
+https://groups.google.com/g/20testersforclosedtesting
 
-## **Step 2: Rate My Apps 5 Stars**
+## **Step 3: Rate My Apps 5 Stars**
 
 Here are some my beta apps and pls help me install theme via these links belows:
 
@@ -35,7 +37,7 @@ Please install and rate my apps 5 stars using this link.
 After rating, capture a screenshot.  [https://play.google.com/store/apps/dev?id=6193840742938642798](https://play.google.com/store/apps/dev?id=6193840742938642798)
 
 
-## **Step 3: Send Me Your Screenshot and App Link**
+## **Step 4: Send Me Your Screenshot and App Link**
 
 Email the screenshot of your rating to  ***[freuss47@gmail.com](mailto:freuss47@gmail.com)***  along with the link to your app. I will install and test your app on all 20 devices within 24 hours and provide you with feedback via email.
 
@@ -74,8 +76,10 @@ Tên tôi là Roy, một nhà phát triển thiết bị di động và tôi có
 Vui lòng thêm group test của tôi: 20testersforclosedtesting@googlegroups.com
 Sau đó nhớ cập nhật lại ứng dụng và chờ Google xét duyệt nó thành công.
 
+## **Bước 2: Tham gia nhóm testing của tôi**
+https://groups.google.com/g/20testersforclosedtesting
 
-## **Bước 2: Xếp hạng ứng dụng của tôi 5 sao**
+## **Bước 3: Xếp hạng ứng dụng của tôi 5 sao**
 
 Đây là các ứng dụng của tôi đang close beta và bạn hãy cài đặt giúp tôi:
 
@@ -94,7 +98,7 @@ https://play.google.com/apps/testing/com.mckimquyen.gallery
 
 Vui lòng cài đặt và đánh giá ứng dụng của tôi 5 sao bằng liên kết này. Sau khi đánh giá, chụp ảnh màn hình.  [https://play.google.com/store/apps/dev?id=6193840742938642798](https://play.google.com/store/apps/dev?id=6193840742938642798)
 
-## **Bước 3: Gửi cho tôi ảnh chụp màn hình và liên kết ứng dụng của bạn**
+## **Bước 4: Gửi cho tôi ảnh chụp màn hình và liên kết ứng dụng của bạn**
 
 Gửi ảnh chụp màn hình xếp hạng của bạn qua email tới  [freuss47@gmail.com](mailto:freuss47@gmail.com)  cùng với liên kết tới ứng dụng của bạn. Tôi sẽ cài đặt và thử nghiệm ứng dụng của bạn trên tất cả 20 thiết bị trong vòng 24 giờ và cung cấp cho bạn phản hồi qua email.
 
