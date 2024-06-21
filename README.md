@@ -63,6 +63,16 @@ Sau đó nhớ cập nhật lại ứng dụng và chờ Google xét duyệt nó
 
 ## **Bước 2: Xếp hạng ứng dụng của tôi 5 sao**
 
+Đây là các ứng dụng của tôi đang close beta và bạn hãy cài đặt giúp tôi:
+
+https://play.google.com/apps/testing/com.mckimquyen.compass
+https://play.google.com/apps/testing/com.mckimquyen.binaryeye
+https://play.google.com/apps/testing/com.mckimquyen.catweatherforecast
+https://play.google.com/apps/testing/com.mickimquyen.beautyqr
+https://play.google.com/apps/testing/com.mckimquyen.reader
+https://play.google.com/apps/testing/com.mckimquyen.gallery
+
+
 Vui lòng cài đặt và đánh giá ứng dụng của tôi 5 sao bằng liên kết này. Sau khi đánh giá, chụp ảnh màn hình.  [https://play.google.com/store/apps/dev?id=6193840742938642798](https://play.google.com/store/apps/dev?id=6193840742938642798)
 
 ## **Bước 3: Gửi cho tôi ảnh chụp màn hình và liên kết ứng dụng của bạn**
