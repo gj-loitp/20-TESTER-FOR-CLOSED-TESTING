@@ -16,6 +16,20 @@ Then submit your changes to Google.
 
 ## **Step 2: Rate My Apps 5 Stars**
 
+Here are some my beta apps and pls help me install theme via these links belows:
+
+https://play.google.com/apps/testing/com.mckimquyen.compass
+
+https://play.google.com/apps/testing/com.mckimquyen.binaryeye
+
+https://play.google.com/apps/testing/com.mckimquyen.catweatherforecast
+
+https://play.google.com/apps/testing/com.mickimquyen.beautyqr
+
+https://play.google.com/apps/testing/com.mckimquyen.reader
+
+https://play.google.com/apps/testing/com.mckimquyen.gallery
+
 Please install and rate my apps 5 stars using this link.
 
 After rating, capture a screenshot.  [https://play.google.com/store/apps/dev?id=6193840742938642798](https://play.google.com/store/apps/dev?id=6193840742938642798)
