@@ -66,10 +66,15 @@ Sau đó nhớ cập nhật lại ứng dụng và chờ Google xét duyệt nó
 Đây là các ứng dụng của tôi đang close beta và bạn hãy cài đặt giúp tôi:
 
 https://play.google.com/apps/testing/com.mckimquyen.compass
+
 https://play.google.com/apps/testing/com.mckimquyen.binaryeye
+
 https://play.google.com/apps/testing/com.mckimquyen.catweatherforecast
+
 https://play.google.com/apps/testing/com.mickimquyen.beautyqr
+
 https://play.google.com/apps/testing/com.mckimquyen.reader
+
 https://play.google.com/apps/testing/com.mckimquyen.gallery
 
 
